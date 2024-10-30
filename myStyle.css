@@ -1,0 +1,63 @@
+body{
+   
+
+      h1 {
+        text-shadow: 2px 2px #ff0000;  text-align: center;
+     }
+    
+    h2{ text-decoration: solid;
+        text-decoration: underline;
+        font-size:xx-large;
+        font-weight: 100;
+    }
+     ul.b{list-style-type: circle;
+
+     }
+    
+      h1 {text-align: center;} 
+      h3 {text-align: center;}
+
+      background-color:blue
+    
+    }
+        
+      .show {
+        background-color: white;
+        color: black;
+
+      }
+      
+      .row {
+        margin-top: 100px;
+        min-width: 100px;
+        justify-content: space-between;
+        
+      }
+
+       
+         
+
+        
+      
+
+         .a:hover{background-color: #ff0000;
+            font-size: xx-large;
+        }
+        
+        
+        
+        body {
+	            background-color: lightgreen;
+	          }
+	          
+	          @media only screen and (max-width: 700px) {
+	            body {
+	              background-color: lightblue;
+	            }
+          } 
+
+
+
+        carouselExampleSlidesOnly  {background-color: aliceblue;
+
+        }
